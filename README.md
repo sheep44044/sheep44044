@@ -13,7 +13,7 @@
 
 <br>
 
-[![sheep44044's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheep44044&show_icons=true&theme=radical)](https://github.com/sheep44044)
+[![sheep44044's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheep44044&show_icons=true&theme=default)](https://github.com/sheep44044)
 
 <br>
 <br>
