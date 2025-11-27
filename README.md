@@ -14,9 +14,13 @@
 
 <br>
 
+<!-- 统计数据 -->
 [![sheep44044's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheep44044&show_icons=true&theme=default)](https://github.com/sheep44044)
 
-<br>
+<!-- 计数器紧贴右侧 -->
+<div align="right" style="margin-top: -60px; margin-bottom: 20px;">
+  <img src="https://count.getloli.com/@sheep44044?theme=capoo-2&scale=0.65" width="150" alt="Visitor Count">
+</div>
 
 ---
 
