@@ -8,10 +8,6 @@
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!+👋;Let's+get+better+together&width=450&duration=4000&pause=1000&color=000000&size=28&height=50)](https://git.io/typing-svg)
-
-<br>
-
 <!-- 统计数据 -->
 [![sheep44044's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheep44044&show_icons=true&theme=default)](https://github.com/sheep44044)
 
