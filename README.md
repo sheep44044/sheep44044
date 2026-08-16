@@ -4,8 +4,6 @@
 
 <font size=4>📧 邮箱：3290120053@qq.com</font>  
 <font size=4>🌐 博客：[sheep44044的小站](https://sheep44044.github.io/)</font>  
-<br>
-<font size=4>📑 学习Golang后端，计算机基础ing</font>
 
 <br>
 <br>
